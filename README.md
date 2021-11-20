@@ -1,3 +1,5 @@
+![](TimeCalculatorCover.png)
+
 ### About this project
 
 This project is from freeCodeCamp's Scientific Computing with Python Certificate. This repository contains the prompt for the project as well as my solution for the assignment. 
