@@ -1,6 +1,3 @@
-![Time Calculator Cover Art](Time Calculator Cover.png)
-
-
 
 ### About this project
 
